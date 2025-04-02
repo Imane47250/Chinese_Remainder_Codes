@@ -1,0 +1,1 @@
+A research project during 'Les cordées de la recherche 2024-2025' event under the Supervision of Camille Garnier and Dr.Ruatta Olivier about chinese remainder codes (M1 Applied Mathematics, CRYPTIS, Limoges' Univerity)
